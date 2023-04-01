@@ -1,0 +1,158 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "quote": "In a metaverse, anything is possible.",
+      "author": "Neal Stephenson"
+    },
+    {
+      "id": 2,
+      "quote": "The future of collaboration is the Metaverse.",
+      "author": "Dave Waters"
+    },
+    {
+      "id": 3,
+      "quote": "In simplest terms, the metaverse is the internet, but in 3D.",
+      "author": "Ed Greigg"
+    },
+    {
+      "id": 4,
+      "quote": "Metaverse isn't a thing a company builds. It's the next chapter of the internet overall.",
+      "author": "Mark Zuckerberg"
+    },
+    {
+      "id": 5,
+      "quote": "The metaverse is the ultimate platform for creating immersive experiences and reshaping our future",
+      "author": "John Carmack"
+    },
+    {
+      "id": 6,
+      "quote": "The metaverse is an unprecedented opportunity for people to connect, create, and share experiences together",
+      "author": "Dr. Philip Rosedale"
+    },
+    {
+      "id": 7,
+      "quote": "The metaverse is an opportunity to create a digital world that is both accessible and meaningful for everyone",
+      "author": "Cory Ondrejka"
+    },
+    {
+      "id": 8,
+      "quote": "People don\u2019t understand NFTs, Metaverse, and crypto today the same way they didn\u2019t understand online shopping in the 1995.",
+      "author": "Anuj Jasani"
+    },
+    {
+      "id": 9,
+      "quote": "In the next 5 years we will effectively transition from people seeing us primarily as a social media company to being a Metaverse company.",
+      "author": "Mark Zuckerberg"
+    },
+    {
+      "id": 10,
+      "quote": "The metaverse is here, and it\u2019s not only transforming how we see the world but how we participate in it \u2013 from the factory floor to the meeting room.",
+      "author": "Satya Nadella"
+    }
+  ],
+  "zh-mo": [
+    {
+      "id": 1,
+      "quote": "\u5728\u5143\u5b87\u5b99\u4e2d\uff0c\u4e00\u5207\u7686\u6709\u53ef\u80fd\u3002",
+      "author": "\u5c3c\u723e\u00b7\u53f2\u8482\u82ac\u68ee"
+    },
+    {
+      "id": 2,
+      "quote": "\u5354\u4f5c\u7684\u672a\u4f86\u5728\u5143\u5b87\u5b99\u3002",
+      "author": "\u6234\u592b\u00b7\u6c83\u7279\u65af"
+    },
+    {
+      "id": 3,
+      "quote": "\u6700\u7c21\u55ae\u7684\u8aaa\u6cd5\uff0c\u5143\u5b87\u5b99\u5c31\u662f\u4e09\u7dad\u7684\u4e92\u806f\u7db2\u3002",
+      "author": "\u827e\u5fb7\u00b7\u683c\u91cc\u683c"
+    },
+    {
+      "id": 4,
+      "quote": "\u5143\u5b87\u5b99\u4e0d\u662f\u4e00\u500b\u516c\u53f8\u5efa\u7acb\u7684\u6771\u897f\uff0c\u800c\u662f\u4e92\u806f\u7db2\u767c\u5c55\u7684\u4e0b\u4e00\u7ae0\u3002",
+      "author": "\u99ac\u514b\u00b7\u624e\u514b\u4f2f\u683c"
+    },
+    {
+      "id": 5,
+      "quote": "\u5143\u5b87\u5b99\u662f\u5275\u5efa\u6c89\u6d78\u5f0f\u9ad4\u9a57\u548c\u91cd\u5851\u672a\u4f86\u7684\u7d42\u6975\u5e73\u53f0\u3002",
+      "author": "\u7d04\u7ff0\u00b7\u5361\u99ac\u514b"
+    },
+    {
+      "id": 6,
+      "quote": "\u5143\u5b87\u5b99\u662f\u4eba\u5011\u9023\u63a5\u3001\u5275\u5efa\u548c\u5206\u4eab\u9ad4\u9a57\u7684\u524d\u6240\u672a\u6709\u7684\u6a5f\u6703\u3002",
+      "author": "\u83f2\u5229\u666e\u00b7\u7f85\u65af\u4ee3\u723e"
+    },
+    {
+      "id": 7,
+      "quote": "\u5143\u5b87\u5b99\u662f\u5275\u5efa\u4e00\u500b\u5c0d\u6bcf\u500b\u4eba\u90fd\u5177\u6709\u610f\u7fa9\u548c\u53ef\u9054\u6027\u7684\u6578\u5b57\u4e16\u754c\u7684\u6a5f\u6703\u3002",
+      "author": "\u79d1\u91cc\u00b7\u7fc1\u5fb7\u91cc\u5361"
+    },
+    {
+      "id": 8,
+      "quote": "\u4eca\u5929\u4eba\u5011\u4e0d\u7406\u89e3NFT\u3001\u5143\u5b87\u5b99\u548c\u52a0\u5bc6\u8ca8\u5e63\uff0c\u5c31\u50cf1995\u5e74\u4eba\u5011\u4e0d\u7406\u89e3\u7db2\u4e0a\u8cfc\u7269\u4e00\u6a23\u3002",
+      "author": "\u963f\u52aa\u5091\u00b7\u8cc8\u85a9\u5c3c"
+    },
+    {
+      "id": 9,
+      "quote": "\u5728\u672a\u4f865\u5e74\uff0c\u6211\u5011\u5c07\u6709\u6548\u5730\u5f9e\u4eba\u5011\u4e3b\u8981\u8a8d\u70ba\u6211\u5011\u662f\u4e00\u5bb6\u793e\u4ea4\u5a92\u9ad4\u516c\u53f8\u8f49\u8b8a\u70ba\u6210\u70ba\u4e00\u5bb6\u5143\u5b87\u5b99\u516c\u53f8\u3002",
+      "author": "\u99ac\u514b\u00b7\u624e\u514b\u4f2f\u683c"
+    },
+    {
+      "id": 10,
+      "quote": "\u5143\u5b87\u5b99\u5df2\u7d93\u4f86\u81e8\uff0c\u5b83\u4e0d\u50c5\u6b63\u5728\u6539\u8b8a\u6211\u5011\u770b\u5f85\u4e16\u754c\u7684\u65b9\u5f0f\uff0c\u9084\u5728\u5f9e\u5de5\u5ee0\u8eca\u9593\u5230\u6703\u8b70\u5ba4\u53c3\u8207\u6539\u8b8a\u3002",
+      "author": "\u85a9\u63d0\u4e9e\u00b7\u7d0d\u5fb7\u62c9"
+    }
+  ],
+  "zh-cn": [
+    {
+      "id": 1,
+      "quote": "\u5728\u5143\u5b87\u5b99\u4e2d\uff0c\u4e00\u5207\u7686\u6709\u53ef\u80fd\u3002",
+      "author": "\u5c3c\u5c14\u00b7\u53f2\u8482\u82ac\u68ee"
+    },
+    {
+      "id": 2,
+      "quote": "\u534f\u4f5c\u7684\u672a\u6765\u5728\u5143\u5b87\u5b99\u3002",
+      "author": "\u6234\u592b\u00b7\u6c83\u7279\u65af"
+    },
+    {
+      "id": 3,
+      "quote": "\u6700\u7b80\u5355\u7684\u8bf4\u6cd5\uff0c\u5143\u5b87\u5b99\u5c31\u662f\u4e09\u7ef4\u7684\u4e92\u8054\u7f51\u3002",
+      "author": "\u827e\u5fb7\u00b7\u683c\u91cc\u683c"
+    },
+    {
+      "id": 4,
+      "quote": "\u5143\u5b87\u5b99\u4e0d\u662f\u4e00\u4e2a\u516c\u53f8\u5efa\u7acb\u7684\u4e1c\u897f\uff0c\u800c\u662f\u4e92\u8054\u7f51\u53d1\u5c55\u7684\u4e0b\u4e00\u7ae0\u3002",
+      "author": "\u9a6c\u514b\u00b7\u624e\u514b\u4f2f\u683c"
+    },
+    {
+      "id": 5,
+      "quote": "\u5143\u5b87\u5b99\u662f\u521b\u5efa\u6c89\u6d78\u5f0f\u4f53\u9a8c\u548c\u91cd\u5851\u672a\u6765\u7684\u7ec8\u6781\u5e73\u53f0\u3002",
+      "author": "\u7ea6\u7ff0\u00b7\u5361\u9a6c\u514b"
+    },
+    {
+      "id": 6,
+      "quote": "\u5143\u5b87\u5b99\u662f\u4eba\u4eec\u8fde\u63a5\u3001\u521b\u5efa\u548c\u5206\u4eab\u4f53\u9a8c\u7684\u524d\u6240\u672a\u6709\u7684\u673a\u4f1a\u3002",
+      "author": "\u83f2\u5229\u666e\u00b7\u7f57\u65af\u4ee3\u5c14"
+    },
+    {
+      "id": 7,
+      "quote": "\u5143\u5b87\u5b99\u662f\u521b\u5efa\u4e00\u4e2a\u5bf9\u6bcf\u4e2a\u4eba\u90fd\u5177\u6709\u610f\u4e49\u548c\u53ef\u8fbe\u6027\u7684\u6570\u5b57\u4e16\u754c\u7684\u673a\u4f1a\u3002",
+      "author": "\u79d1\u91cc\u00b7\u7fc1\u5fb7\u91cc\u5361"
+    },
+    {
+      "id": 8,
+      "quote": "\u4eca\u5929\u4eba\u4eec\u4e0d\u7406\u89e3NFT\u3001\u5143\u5b87\u5b99\u548c\u52a0\u5bc6\u8d27\u5e01\uff0c\u5c31\u50cf1995\u5e74\u4eba\u4eec\u4e0d\u7406\u89e3\u7f51\u4e0a\u8d2d\u7269\u4e00\u6837\u3002",
+      "author": "\u963f\u52aa\u6770\u00b7\u8d3e\u8428\u5c3c"
+    },
+    {
+      "id": 9,
+      "quote": "\u5728\u672a\u67655\u5e74\uff0c\u6211\u4eec\u5c06\u6709\u6548\u5730\u4ece\u4eba\u4eec\u4e3b\u8981\u8ba4\u4e3a\u6211\u4eec\u662f\u4e00\u5bb6\u793e\u4ea4\u5a92\u4f53\u516c\u53f8\u8f6c\u53d8\u4e3a\u6210\u4e3a\u4e00\u5bb6\u5143\u5b87\u5b99\u516c\u53f8\u3002",
+      "author": "\u9a6c\u514b\u00b7\u624e\u514b\u4f2f\u683c"
+    },
+    {
+      "id": 10,
+      "quote": "\u5143\u5b87\u5b99\u5df2\u7ecf\u6765\u4e34\uff0c\u5b83\u4e0d\u4ec5\u6b63\u5728\u6539\u53d8\u6211\u4eec\u770b\u5f85\u4e16\u754c\u7684\u65b9\u5f0f\uff0c\u8fd8\u5728\u4ece\u5de5\u5382\u8f66\u95f4\u5230\u4f1a\u8bae\u5ba4\u53c2\u4e0e\u6539\u53d8\u3002",
+      "author": "\u8428\u63d0\u4e9a\u00b7\u7eb3\u5fb7\u62c9"
+    }
+  ]
+}

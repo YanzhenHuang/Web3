@@ -1,0 +1,1 @@
+https://backend.cpsumsu.org/api/metaverse_quotes
